@@ -22,7 +22,7 @@ repository               : "BBOOMMM/BBOOMMM.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "life_profile.png"
+  avatar           : "life_profile.jpg"
   name             : "Chen Xuanyu(陈轩宇)"
   pronouns         : # example: "she/her"  
   bio              : "A master's student of LAMDA group at Nanjing University."
